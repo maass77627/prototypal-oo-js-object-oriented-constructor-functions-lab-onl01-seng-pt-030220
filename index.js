@@ -1,11 +1,11 @@
-function Scooter() {
+function Scooter(year, color, model) {
 
 }
 
-function Driver() {
+function Driver(name, age, experience) {
 
 }
 
-function PickupLocation() {
+function PickupLocation(address, city) {
 
 }
